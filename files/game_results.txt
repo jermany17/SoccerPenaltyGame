@@ -35,3 +35,11 @@
   Player1 Score: 3
   Player2 Score: 2
   Winner: Player1
+  --------------------------------------------------------
+  Player1 Score: 3
+  Player2 Score: 4
+  Winner: Player2
+  --------------------------------------------------------
+  Player1 Score: 3
+  Player2 Score: 0
+  Winner: Player1
